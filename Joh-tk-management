@@ -5,11 +5,23 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>JOH TK Management System</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>JOH TK TRADING AND SOFTWARE SOLUTIONS</h1>
-  <h2>Business Management System</h2>
-  <p>Karibu kwenye mfumo wetu wa usimamizi wa biashara.</p>
-  <p>Technology That Powers Business Growth</p>
+  <header>
+    <h1>JOH TK TRADING AND SOFTWARE SOLUTIONS</h1>
+    <h2>Business Management System</h2>
+  </header>
+
+  <main>
+    <h2>Karibu kwenye Mfumo wa Usimamizi</h2>
+    <p>Simamia wateja, miradi, kazi, nukuu za bei, ankara na malipo katika sehemu moja.</p>
+    <p>Technology That Powers Business Growth</p>
+  </main>
+
+  <footer>
+    <p>© 2026 JOH TK TRADING AND SOFTWARE SOLUTIONS</p>
+  </footer>
+
 </body>
 </html>
